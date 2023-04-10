@@ -1,18 +1,3 @@
-aydogduwu
-aydogduwu
-Apr 10, 2023 23:53
-Python3
-Runtime313 ms
-Beats
-88.2%
-Memory27.6 MB
-Beats
-97.74%
-Click the distribution chart to view more details
-Notes
-Related Tags
-0/5
-
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         # if the list is empty, return 0
