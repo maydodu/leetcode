@@ -29,7 +29,3 @@ class Solution:
             
         return result
         
-
-
-a = Solution()
-print(a.decode(a.encode(['10#adfdafadfl982#a4bcd', '7#d3*(&(e'])))
